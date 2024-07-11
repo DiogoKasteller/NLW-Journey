@@ -18,7 +18,7 @@ Page developed during Fullstack postgraduate classes taught by Rocketseat
 <br>
 
 <p align="center">
-  <img alt="Trip Planner" src="preview.jpg" width="100%">
+  <img alt="Trip Planner" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Technologies
