@@ -1,7 +1,7 @@
 <h1 align="center"> Travel Itinerary Planner </h1>
 
 <p align="center">
-Page developed during Fullstack postgraduate classes taught by Rocketseat
+Page developed during NLW Journey event by Rocketseat
 </p>
 
 <p align="center">
